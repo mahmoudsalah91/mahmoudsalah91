@@ -26,10 +26,8 @@
 
 - **Languages**:
 
-   ![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/b57e8d89-e9d2-4c3b-a5ab-6207d979af06)&nbsp;
-
-
-   ![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/e4b35bc1-f46b-4b1b-9148-2da16074731a)&nbsp;
+   ![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/b57e8d89-e9d2-4c3b-a5ab-6207d979af06)&nbsp; ![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/e4b35bc1-f46b-4b1b-9148-2da16074731a)&nbsp;
+  
 
 
  
