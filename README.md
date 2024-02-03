@@ -25,10 +25,10 @@
 
 - **Languages**:
 
-   ![Java](![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/b57e8d89-e9d2-4c3b-a5ab-6207d979af06)&nbsp;
+   ![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/b57e8d89-e9d2-4c3b-a5ab-6207d979af06)&nbsp;
 
 
-   ![Python](![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/0ebe57bb-1839-49cd-a681-150eacf9f6d1)&nbsp;
+   ![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/e4b35bc1-f46b-4b1b-9148-2da16074731a)&nbsp;
 
 
  
@@ -37,12 +37,14 @@
 - **Softwares and Tools**:
 
         
-    ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-    ![CLion](https://img.shields.io/badge/-CLion-%2300599C.svg?style=for-the-badge&logo=CLion&logoColor=white)&nbsp;
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?color=black&style=for-the-badge&logo=github&logoColor=white)&nbsp;
-    ![Codeforces](https://img.shields.io/badge/-Codeforces-05122A?style=for-the-badge&logo=Codeforces)&nbsp;
+    ![selenium](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/f744a829-40ee-4d66-852a-2e11e5607b73)&nbsp;
+    ![robotframework](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/9088804d-17d3-42e0-b752-954ae4033c55)&nbsp;
+    ![postman](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/64e9b576-fd59-4b21-8f74-c61c3bc624ad)&nbsp;
+    ![sql](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/446e1b22-8b72-46d6-84d9-8694cd1d137e)&nbsp;
+    ![jira](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/36f4fcb0-57d2-4aca-912d-fc1dd99ccbc2)&nbsp;
+    ![Git](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/832dffef-37b3-407c-874d-c8b8de86d1c6)&nbsp;
+    ![GitHub](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/492276b8-1a93-48a3-819d-7839e68d6169)&nbsp;
+    
 
 <br>
 
