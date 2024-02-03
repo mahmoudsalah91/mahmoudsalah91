@@ -25,7 +25,7 @@
 
 - **Languages**:
 
-   ![Java[image(https://upload.wikimedia.org/wikipedia/commons/9/97/Python_Windows_bytecode_icon_2006%E2%80%932016_Small.png)
+   ![Java[image](https://upload.wikimedia.org/wikipedia/commons/9/97/Python_Windows_bytecode_icon_2006%E2%80%932016_Small.png)
 
     ![Python](![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/9e8f34bc-8462-4083-91d1-91533189392d)
 
