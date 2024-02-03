@@ -41,6 +41,7 @@
     ![robotframework](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/9088804d-17d3-42e0-b752-954ae4033c55)&nbsp;
     ![postman](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/64e9b576-fd59-4b21-8f74-c61c3bc624ad)&nbsp;
     ![sql](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/446e1b22-8b72-46d6-84d9-8694cd1d137e)&nbsp;
+    ![azure](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/47b2a14a-b0dc-4f61-ae4c-2d73e16cdc48)&nbsp;
     ![jira](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/36f4fcb0-57d2-4aca-912d-fc1dd99ccbc2)&nbsp;
     ![Git](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/832dffef-37b3-407c-874d-c8b8de86d1c6)&nbsp;
     ![GitHub](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/492276b8-1a93-48a3-819d-7839e68d6169)&nbsp;
