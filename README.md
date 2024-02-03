@@ -25,7 +25,9 @@
 
 - **Languages**:
 
-   ![Java](![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/f76413d0-fc09-4d59-9a26-b94259afb2ee)&nbsp;
+   ![Java](![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/b57e8d89-e9d2-4c3b-a5ab-6207d979af06)&nbsp;
+
+
    ![Python](![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/0ebe57bb-1839-49cd-a681-150eacf9f6d1)&nbsp;
 
 
