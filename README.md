@@ -25,7 +25,8 @@
 
 - **Languages**:
 
-   ![Java[image](https://upload.wikimedia.org/wikipedia/commons/9/97/Python_Windows_bytecode_icon_2006%E2%80%932016_Small.png)
+   ![Java[image](![image](<a href="https://www.freepik.com/icon/java_919854#fromView=search&term=java&track=ais&page=1&position=0&uuid=c7d4c58b-b9ab-4c33-98c2-05204648f7e4">Icon by Freepik</a>)
+
 
     ![Python](![image](https://github.com/mahmoudsalah91/mahmoudsalah91/assets/108552674/9e8f34bc-8462-4083-91d1-91533189392d)
 
